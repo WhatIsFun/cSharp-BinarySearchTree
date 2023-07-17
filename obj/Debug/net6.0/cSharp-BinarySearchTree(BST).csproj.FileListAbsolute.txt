@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\bin\Debug\net6.0\cSharp-BinarySearchTree(BST).exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\bin\Debug\net6.0\cSharp-BinarySearchTree(BST).deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\bin\Debug\net6.0\cSharp-BinarySearchTree(BST).runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\bin\Debug\net6.0\cSharp-BinarySearchTree(BST).dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\bin\Debug\net6.0\cSharp-BinarySearchTree(BST).pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\cSharp-BinarySearchTree(BST).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\cSharp-BinarySearchTree(BST).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\cSharp-BinarySearchTree(BST).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\cSharp-BinarySearchTree(BST).AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\cSharp-BinarySearchTree(BST).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\cSharp-BinarySearchTree(BST).dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\refint\cSharp-BinarySearchTree(BST).dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\cSharp-BinarySearchTree(BST).pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\cSharp-BinarySearchTree(BST).genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-BinarySearchTree(BST)\obj\Debug\net6.0\ref\cSharp-BinarySearchTree(BST).dll
